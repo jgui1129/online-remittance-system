@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+  <User>
+    <Name>Jeric Guillermo</Name>
+    <Username>admin</Username>
+    <Password>admin</Password>
+    <Type>Admin</Type>
+    <Access>YES</Access>
+  </User>
+  <User>
+    <Name>Michaela</Name>
+    <Username>micha</Username>
+    <Password>micha</Password>
+    <Type>Staff</Type>
+    <Access>YES</Access>
+  </User>
+  <User>
+    <Name>nic</Name>
+    <Username>nic</Username>
+    <Password>123</Password>
+    <Type>Staff</Type>
+    <Access>YES</Access>
+  </User>
+  <User>
+    <Name>santos</Name>
+    <Username>santos</Username>
+    <Password>santos</Password>
+    <Type>Staff</Type>
+    <Access>YES</Access>
+  </User>
+  <User>
+    <Name>niccccccc</Name>
+    <Username>nicole</Username>
+    <Password>nicole</Password>
+    <Type>Admin</Type>
+    <Access>YES</Access>
+  </User>
+</Users>
